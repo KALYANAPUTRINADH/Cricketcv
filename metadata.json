@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Segmenter AI",
+  "description": "AI-powered cricket video segmenting system to detect, clip, and organize individual deliveries over-by-over.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
